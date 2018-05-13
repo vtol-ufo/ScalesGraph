@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.3
+Created-By: 1.7.0_06-b24 (Oracle Corporation)
+Class-Path: ./lib/hamcrest-core-1.3.jar ./lib/jcommon-1.0.23.jar ./lib/jfreechart-1.0.19.jar ./lib/jfreechart-1.0.19-experimental.jar ./lib/jfreechart-1.0.19-swt.jar ./lib/jfreesvg-2.0.jar ./lib/jSerialComm-2.0.2.jar ./lib/junit-4.11.jar ./lib/orsoncharts-1.4-eval-nofx.jar ./lib/orsonpdf-1.6-eval.jar ./lib/servlet.jar ./lib/swtgraphics2d.jar
+Main-Class: FastVizualization
